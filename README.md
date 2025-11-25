@@ -1,121 +1,158 @@
-<h1 align="center">Hi there, I'm Deelaka Herath <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h3 align="center">💻 A passionate web & mobile developer from Sri Lanka 🇱🇰</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full-stack+Web+Developer;Android+%26+IoT+Enthusiast;Always+learning+new+technologies;Building+cool+projects+step+by+step+🚀" alt="Typing SVG" />
-</p>
+# 👋 Welcome to My Digital Workspace
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Deelaka+Herath+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Full-Stack+Developer+%F0%9F%9A%80;Mobile+%26+IoT+Engineer+%F0%9F%93%B1;Building+the+Future%2C+One+Commit+at+a+Time+%E2%9C%A8" alt="Typing SVG" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=herathdeelaka730-cell&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+<br/>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=herathdeelaka730-cell&theme=tokyonight&margin-w=10&margin-h=10" alt="trophies" />
-  </a>
-</p>
+[![Profile Views](https://komarev.com/ghpvc/?username=herathdeelaka730-cell&label=Profile%20Views&color=00d9ff&style=flat-square)](https://github.com/herathdeelaka730-cell)
+[![GitHub followers](https://img.shields.io/github/followers/herathdeelaka730-cell?label=Followers&style=flat-square&color=00d9ff)](https://github.com/herathdeelaka730-cell?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/herathdeelaka730-cell?label=Stars&style=flat-square&color=00d9ff)](https://github.com/herathdeelaka730-cell)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Code-%F0%9F%92%BB-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4%EF%B8%8F-ff69b4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Made%20in-Sri%20Lanka-%23ffcc00?style=for-the-badge" />
-</p>
+</div>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-- 🚀 I love building **web, Android, and IoT** projects  
-- 🌱 Currently exploring **Firebase, Cloud, and advanced Android**  
-- 🔧 Enjoy working with **Node.js, PHP, Oracle, SQL & Firebase**  
-- 🎯 Goal: Become a **skilled full-stack engineer & system architect**  
-- ⚡ Fun fact: I enjoy debugging complex issues more than writing simple code 😄  
+```typescript
+const deelaka = {
+    location: "Sri Lanka 🇱🇰",
+    role: "Full-Stack Software Engineer",
+    focus: ["Web Development", "Mobile Apps", "IoT Solutions"],
+    currentlyLearning: ["Cloud Architecture", "Advanced Android", "Firebase"],
+    techStack: {
+        backend: ["Node.js", "PHP", "Express.js", "Spring Boot"],
+        frontend: ["React", "Angular", "HTML5", "CSS3"],
+        mobile: ["Android", "React Native", "Flutter"],
+        databases: ["Oracle", "MySQL", "MongoDB", "Firebase"],
+        tools: ["Git", "Docker", "Figma", "VS Code"]
+    },
+    goals2024: "Build scalable systems & contribute to open source 🌟",
+    funFact: "I debug for fun and optimize for satisfaction ⚡"
+};
+```
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" alt="coding gif" />
-</p>
+<div align="center">
+  
+### 💡 "Code is like humor. When you have to explain it, it's bad." – Cory House
 
----
-
-## 🤝 Connect with me
-
-<p align="left">
-  <!-- Add your real links here later if you want -->
-  <a href="https://github.com/herathdeelaka730-cell" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <!-- Example placeholders – replace with your real profiles later if needed
-  <a href="https://www.linkedin.com/in/USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:YOUR_EMAIL@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  -->
-</p>
+</div>
 
 ---
 
-## 🛠️ Languages & Tools
+## 🛠️ Technology Arsenal
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" height="40" alt="android" />
-  <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="40" height="40" alt="angular" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/backbonejs/backbonejs-original-wordmark.svg" width="40" height="40" alt="backbonejs" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40" alt="bootstrap" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="c" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="css3" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="40" height="40" alt=".net" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40" alt="express" />
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" alt="figma" />
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40" alt="firebase" />
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" height="40" alt="flutter" />
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" height="40" alt="gcp" />
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="git" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="html5" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="java" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="javascript" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" alt="mongodb" />
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" height="40" alt="mssql" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="mysql" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="nodejs" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40" height="40" alt="oracle" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40" alt="php" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="react" />
-  <img src="https://reactnative.dev/img/header_logo.svg" width="40" height="40" alt="react native" />
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40" alt="spring" />
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" height="40" alt="sqlite" />
-</p>
+<div align="center">
 
----
+### 📱 Mobile & Frontend
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-## 📊 GitHub Stats & Activity
+### ⚙️ Backend & Databases
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-### 🔥 Streak (animated & working)
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=herathdeelaka730-cell&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-</p>
+### 🔧 Tools & Platforms
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### ⭐ Overall GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=herathdeelaka730-cell&show_icons=true&theme=tokyonight&hide_border=false" alt="Stats" />
-</p>
-
-### 📘 Most Used Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=herathdeelaka730-cell&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
-</p>
+</div>
 
 ---
 
-## 🎮 Just for Fun
+## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="260" alt="fun coding" />
-</p>
+<div align="center">
+  
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=herathdeelaka730-cell&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=herathdeelaka730-cell&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" />
 
-<p align="center">
-  <b>“Code. Debug. Learn. Repeat. 💙”</b>
-</p>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herathdeelaka730-cell&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=herathdeelaka730-cell&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" />
+
+</div>
+
+<div align="center">
+  
+### 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=herathdeelaka730-cell&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+<div align="center">
+
+```mermaid
+graph LR
+    A[Learning] --> B[Cloud Architecture]
+    A --> C[Microservices]
+    A --> D[System Design]
+    B --> E[Building]
+    C --> E
+    D --> E
+    E --> F[Scalable Solutions]
+```
+
+</div>
+
+🔭 **Working On:** Building scalable web applications with modern tech stacks  
+🌱 **Currently Learning:** Advanced cloud architecture and distributed systems  
+👯 **Looking to Collaborate On:** Open source projects and innovative IoT solutions  
+💬 **Ask Me About:** Full-stack development, Android, Firebase, or anything tech!  
+⚡ **Fun Fact:** I find joy in optimizing algorithms and making code elegant  
+
+---
+
+## 📫 Let's Connect!
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/herathdeelaka730-cell)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 Quote of the Day
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🐍 Contribution Snake
+![Snake animation](https://raw.githubusercontent.com/herathdeelaka730-cell/herathdeelaka730-cell/output/github-contribution-grid-snake-dark.svg)
+
+---
+
+### ⭐ Show Some Love!
+*If you like my work, consider giving my repositories a star!*
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+
+**Thanks for visiting! Let's build something amazing together! 🚀**
+
+</div>
