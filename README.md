@@ -51,53 +51,7 @@ const deelaka = {
 
 <br clear="right"/>
 
----
 
-## 🛠️ 𝐌𝐲 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐲 𝐀𝐫𝐬𝐞𝐧𝐚𝐥
-
-<div align="center">
-
-### 👨‍💻 Languages & Frameworks
-
-<p>
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,html,css" alt="Languages" />
-</p>
-
-### 🎨 Frontend Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,bootstrap,materialui,sass,jquery" alt="Frontend" />
-</p>
-
-### ⚙️ Backend Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,spring,dotnet" alt="Backend" />
-</p>
-
-### 🗄️ Databases & Cloud
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,firebase,redis,aws,azure,gcp" alt="Databases & Cloud" />
-</p>
-
-### 🧰 Tools & Technologies
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,linux,bash,vscode,idea" alt="Tools" />
-</p>
-
-### 🎯 Other Skills
-
-<p>
-<img src="https://skillicons.dev/icons?i=figma,postman,grafana,nginx,webpack,vim" alt="Other Skills" />
-</p>
-
-</div>
-
----
-
-<div align="center">
 
 ## 📊 𝐆𝐢𝐭𝐇𝐮𝐛 𝐒𝐭𝐚𝐭𝐢𝐬𝐭𝐢𝐜𝐬 & 𝐀𝐜𝐭𝐢𝐯𝐢𝐭𝐲
 
